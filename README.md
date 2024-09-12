@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm currently learning Data Science at the School of Data Science at the University of Virginia
+  
+- I'm looking for help with projects
