@@ -12,9 +12,9 @@ I'm currently learning **Data Science** at the **School of Data Science at the U
 
 ---
 
-### 🏆 Achievements
+### 🔥 Coding Streak
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dylanlidailin&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophy" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dylanlidailin&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
