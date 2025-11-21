@@ -2,9 +2,9 @@
 
 I'm currently learning **Data Science** at the **School of Data Science at the University of Virginia**. ⚔️
 
-- 🌱 I'm looking for help with projects on **Sustainability Economics** and **Environmental Data Science**.
-- 💬 Ask me about **Projects, Data Science, Data Analytics, and Sustainability Economics**.
-- 🔭 I’m currently working on **Inferential Analysis & Cloud Computing** (AWS/R).
+- 🌱 I'm looking for help with projects on **Economics**, **Business Analysis**, **NLP**, and **Data Science**.
+- 💬 Ask me about **Fullstack Development, AI, Data Science, Data Analytics, and Software Engineering**.
+- 🔭 I’m currently working on **Inferential Analysis & Cloud Computing** (AWS/R/Python).
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=dylanlidailin&label=Profile%20Views&color=0e75b6&style=flat" alt="dylanlidailin" />
